@@ -1,0 +1,11 @@
+# Project exclude paths
+/abstract-document/target/
+/adapter/target/
+/bridge/target/
+/builder/target/
+/command/target/
+/composite/target/
+/decorator/target/
+/expression/target/
+/factory/target/
+/strategy/target/
